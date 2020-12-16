@@ -1,0 +1,191 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.bgimage{
+    height: 575px;  
+
+    
+}
+
+
+li, a, button{
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 20px;
+    color:#FFC400;
+    text-decoration: none;
+}
+
+
+header{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    padding: 10px;
+   
+}
+
+.logo{
+    cursor: pointer;
+    padding: 20px;
+    padding-left: 100px;
+    height: 100px;
+    width: 300px;
+
+}
+.nav li{
+    display: inline;
+    margin: auto;
+    padding-right: 50px;
+    
+    
+}
+.nav li :hover{
+    
+    color: red;
+}
+.box{
+   margin: auto;
+   margin-top: 60px;
+    background-color: #94781A;
+    height: 262px;
+    width: 650px;
+    padding: 15px;
+    opacity: 75%;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    color: #fff;
+}
+
+.bibletools{
+    margin: auto;
+    padding: 50px;
+    padding-bottom: 20px;
+    
+    text-align: center;
+    color: #7A7A7A;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+}
+
+    
+
+.verseofday{
+    background-color: orange ;
+    margin-left: 300px; 
+    margin-top: 20px;
+    width: 520px;
+    padding-bottom: 10px;
+    float: left;      
+}
+.MCGI{
+    margin-top: 30px;
+   
+    padding: 20px;
+    
+}
+.versesentence{ 
+    padding: 15px;
+    text-align: center;
+    color: #fff;
+
+}
+
+.readingplan{
+    background-color: orange;
+    float: right;
+    width: 520px;
+    margin-right: 300px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center; 
+    
+}
+.Rsentence{
+    color: #fff;
+}
+
+.content2{
+margin-left: auto;
+margin-right: auto;
+    margin-top: 560px;
+    width: 1600px;
+    height: 550px;
+    display: flex;
+  
+}
+.parallel{
+    margin-right: 45px;
+    margin-left: 255px;
+    padding: 10px;
+    height: 500px;
+    width:   520px;
+    border: solid orange;
+    background-color: orange;
+    
+}
+.image3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.psen{
+    text-align: center;
+    color: #fff;
+}
+.notes{
+    width:520px;
+    height: 500px;
+    border: solid orange;
+    background-color: orange;
+}
+.image4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.nsen{
+    text-align: center;
+    color: #fff;
+}
+
+.lurb{
+    padding: 10px;
+    text-align: center;
+}
+.image1{
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.doa{
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.logoapp{
+    padding-top: 40px;
+    
+    width:300px;
+   display: flex;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+     
+}
